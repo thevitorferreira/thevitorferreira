@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi visitor 👋
+## Welcome to my github profile
+## My name is Vitor Lucas, computer science student at UFMT and back-end developer.
+
 
 <!--
 **thevitorferreira/thevitorferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
