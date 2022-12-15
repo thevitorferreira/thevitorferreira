@@ -1,11 +1,14 @@
 # Hi visitor ;) 👋
--Welcome to my github profile, my name is Vitor Lucas, computer science student at UFMT and back-end developer (Python). I'm learning C# and .NET.
+Welcome to my github profile, my name is Vitor Lucas, computer science student at UFMT and back-end developer (Python). I'm learning C# and .NET.
 
 
--Languages and tools
+Languages and tools
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='40' height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='40' height='40' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='40' height='40' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='40' height='40' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width='40' height='40'/>
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='40' height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='40' height='40' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='40' height='40' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='40' height='40' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width='40' height='40'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='40' height='40' />
+ 
+ Learning
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width='40' height='40' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width='40' height='40' />
 
 <!--
 **thevitorferreira/thevitorferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
