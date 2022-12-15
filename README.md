@@ -1,7 +1,7 @@
 # Hi visitor ;) 👋
 - Welcome to my github profile, my name is Vitor Lucas, computer science student at UFMT and back-end developer.
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='40' height='40' />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='40' height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='40' height='40' />
 
 
 <!--
