@@ -1,6 +1,5 @@
 # Hi visitor 👋
-## Welcome to my github profile
-## My name is Vitor Lucas, computer science student at UFMT and back-end developer.
+- Welcome to my github profile, my name is Vitor Lucas, computer science student at UFMT and back-end developer.
 
 
 <!--
