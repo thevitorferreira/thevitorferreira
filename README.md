@@ -12,7 +12,7 @@ Welcome to my github profile, my name is Vitor Lucas, computer science student a
  
  <b>Learning now</b>
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='40' height='40' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width='40' height='40' />
 
 <!--
 **thevitorferreira/thevitorferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
